@@ -16,7 +16,7 @@ This is a collection of various practice projects I’ve been working on to shar
    - **Language/Technology:** Node.js, Express.js and Postman
    - **Description:** This project is a RESTful API built using Node.js and Express.js to handle HTTP requests for managing data. It is tested using Postman to ensure smooth interaction between the server and client for CRUD operations.
    - **Date Added:** 09/2024
-   - **Link:** 
+   - **Link:** [RestAPI](https://github.com/AdrikaPanwar/Practice-Projects/tree/main/RestAPI)
 
 ## 🤔 Contributing
 
