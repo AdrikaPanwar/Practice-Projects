@@ -12,6 +12,12 @@ This is a collection of various practice projects I’ve been working on to shar
    - **Date Added:** 08/2024
    - **Link:** [Guess Game](https://github.com/AdrikaPanwar/Guess-Game/blob/main/GuessGame.java)
 
+2. **RestAPI Building using Node.js and Express.js**
+   - **Language/Technology:** Node.js, Express.js and Postman
+   - **Description:** This project is a RESTful API built using Node.js and Express.js to handle HTTP requests for managing data. It is tested using Postman to ensure smooth interaction between the server and client for CRUD operations.
+   - **Date Added:** 09/2024
+   - **Link:** 
+
 ## 🤔 Contributing
 
 Got feedback or suggestions? Feel free to open an issue or submit a pull request! I’m always looking to improve and learn from others.
