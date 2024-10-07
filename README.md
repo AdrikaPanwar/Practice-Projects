@@ -17,6 +17,12 @@ This is a collection of various practice projects I’ve been working on to shar
    - **Description:** This project is a RESTful API built using Node.js and Express.js to handle HTTP requests for managing data. It is tested using Postman to ensure smooth interaction between the server and client for CRUD operations.
    - **Date Added:** 09/2024
    - **Link:** [RestAPI](https://github.com/AdrikaPanwar/Practice-Projects/tree/main/RestAPI)
+  
+3. **Discord Bot**
+   - **Language/Technology:** JavaScript (discord.js)
+   - **Description:** A Discord bot that provides short URL generation and basic command handling.
+   - **Date Added:** 10/2024
+   - **Link:**[DiscordBot](https://github.com/AdrikaPanwar/Practice-Projects/tree/main/Discord)
 
 ## 🤔 Contributing
 
